@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-subconscious",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "n8n community node for Subconscious AI agents with web search and reasoning capabilities",
   "license": "MIT",
   "homepage": "https://subconscious.dev",
